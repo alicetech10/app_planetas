@@ -1,4 +1,4 @@
-# 🚀 Gerenciador de Planetas - Flutter & SQLite #
+# 🚀 Gerenciador de Planetas - Flutter #
 
 # 🌍 Sobre o Projeto
 
